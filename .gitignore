@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.backup
+*.before_*
+backup/
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+*credential*
+output/
+review/
+input/

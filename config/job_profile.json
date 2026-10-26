@@ -1,0 +1,27 @@
+{
+  "name": "Apurbo Chandro",
+  "country": "Bangladesh",
+  "remote_only": true,
+  "hourly_pay_required": true,
+  "minimum_hourly_usd": 10,
+  "exclude_local_employers": true,
+  "keywords": [
+    "technical support",
+    "linux support",
+    "cloud support",
+    "customer support",
+    "help desk",
+    "service desk",
+    "python",
+    "ai evaluator",
+    "automation"
+  ],
+  "skills": [
+    "Linux",
+    "Networking fundamentals",
+    "Troubleshooting",
+    "Python basics",
+    "Bash",
+    "GitHub"
+  ]
+}

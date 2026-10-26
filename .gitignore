@@ -13,3 +13,14 @@ backup/
 output/
 review/
 input/
+
+# Temporary and timestamped backups
+*.bak
+*.backup*
+*.before_*
+*.step1.backup.py
+
+# Generated job data and local reports
+output/
+review/
+input/
